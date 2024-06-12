@@ -8,4 +8,4 @@ $ git clone <project>
 $ cd <project>
 ```
 
-Open index.html file
+Open index.html
